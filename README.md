@@ -6,4 +6,4 @@ datetime<br>
 <h3>Theory</h3>
 <br>This could also be used with the Kelly formula, f = (b*p-(1-p))/b <br>
 Where p = propability (W/L) and b = bet size.<br>This bot buys low and sells high, wich is how it makes profit. Maybe buy at -0.1% and sell at +0.1%.<br
-><img src="screeshot1.jpg" style="width:600px;height:600px;"></img><strong>Copyright copy; Chucny 2025 Licensed under the Apache license.</strong>
+><img src="screeshot1" style="width:600px;height:600px;"></img><strong>Copyright copy; Chucny 2025 Licensed under the Apache license.</strong>
