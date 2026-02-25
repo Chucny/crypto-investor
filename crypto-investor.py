@@ -14,7 +14,7 @@ from datetime import datetime
 print("======================================")
 print("  Simple multi-coin bot")
 print("  No pandas, just normal lists and math")
-print("  Using Binance TESTNET (fake money) \n Made by Chucny\nChecks prices every 60 seconds, use something like the kelly formula. Use this if you want to modify the code. \n")
+print("  Using Binance TESTNET (fake money) \n Made by Chucny\nChecks prices about every 30 seconds, modify variable for 60 seconds as intended, use something like the kelly formula. Use this if you want to modify the code. \n")
 print("======================================\n")
 
 # ────────────── SETTINGS ──────────────
