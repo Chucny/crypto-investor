@@ -17,8 +17,8 @@ Where p = propability (W/L) and b = bet size.<br>This bot buys low and sells hig
 <br>exchange.set_sandbox_mode(True) <br>#exchange = ccxt.binance({ <br># 'enableRateLimit': True, <br># 'apiKey': 'your_api_key_32_characters_here', <br># 'secret': 'your_secret_64_characters_here', <br>#}) <br># COMMENT OUT THIS TO USE REAL MONEY:
 </pre>
 
-</div>
-
-
+</div><br>Run the investor like this:<br>
+<pre id="codeBlock" style="overflow-x:auto; white-space:pre-wrap;">
+python crypto-investor.py</pre>
 
 <strong>Copyright &copy; Chucny 2025 Licensed under the Apache license.</strong>
